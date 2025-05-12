@@ -16,3 +16,6 @@ Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
+- [x] List 1
+- [ ] List 2
+- [x] List 3
